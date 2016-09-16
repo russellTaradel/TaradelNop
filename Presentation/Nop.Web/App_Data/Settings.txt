@@ -1,0 +1,2 @@
+DataProvider: sqlserver
+DataConnectionString: Data Source=taradeldev.database.windows.net,1433;Initial Catalog=TaradelSandbox;Integrated Security=False;Persist Security Info=False;User ID=taradeldev;Password=Azure123!
